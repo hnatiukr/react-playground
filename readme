@@ -1,0 +1,5 @@
+A simplest React boilerplate. Use it when you need to play with React without
+unnecessary overheads. Just clone/copy/download and use.
+
+- react@18 by default but you can choose your own version if necessary
+- run with `npx live-server` (or similar) for serving with hot reloading
